@@ -1,0 +1,19 @@
+{
+   "id":"p3",
+   "imageUrl":"/image/company-3.png",
+   "name":"Sell",
+   "companyId":"c3",
+   "companyName": "Cisco",
+   "cityId":"c1",
+   "cityName": "Shanghai",
+   "scaleId":"s3",
+   "scaleName":"500 p",
+   "industryId":"i1",
+   "industryName": "Internet",
+   "salaryId":"s2",
+   "salaryName":"3k-5k",
+   "experience":"1-3 years",
+   "education": "Undergrad",
+   "benefit": "Stable development",
+   "description": "Job Duties：\n1.Sellin Products；..."
+}

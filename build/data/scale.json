@@ -1,0 +1,16 @@
+[{
+  "id": "",
+  "name": "Unlimited"
+}, {
+  "id": "s1",
+  "name": "less than 50 p"
+}, {
+  "id": "s2",
+  "name": "50~100 p"
+}, {
+  "id": "s3",
+  "name": "100~500 p"
+}, {
+  "id": "s4",
+  "name": "500 p above"
+}]
