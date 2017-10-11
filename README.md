@@ -4,6 +4,9 @@
 - Developed a custom filter to display the jobs according to the cities, wages, and company size </br>
 - Devised a sending resume button to upload users's resume to the companies </br>
 
+#requirement
+AngulusJS 1.5
+
 
 # demo
 
