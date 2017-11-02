@@ -3,6 +3,10 @@
 - Created jobs / positions list view to display the description and information of all the companies and jobs </br>
 - Developed a custom filter to display the jobs according to the cities, wages, and company size </br>
 - Devised a sending resume button to upload users's resume to the companies </br>
+- Designed a validation login in function to make sure the input is valid </br>
+
+#requirement
+AngulusJS 1.5
 
 
 # demo
